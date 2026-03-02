@@ -1,6 +1,6 @@
 // Simula una API: en un proyecto real esto sería un endpoint backend.
 export async function fetchProducts() {
-  const url = "/data/productos.json";
+  const url = `${import.meta.env.BASE_URL}data/productos.json`;
 
   // simula latencia de red
   await new Promise((r) => setTimeout(r, 250));

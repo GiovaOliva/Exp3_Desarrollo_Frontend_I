@@ -4,7 +4,7 @@ export default function Hero() {
       <section>
         <div className="container py-5 text-center">
           <img
-            src="/img/logo-animeshop.svg"
+            src={`${import.meta.env.BASE_URL}img/logo-animeshop.svg`}
             alt="Logo de AnimeShop"
             width="64"
             height="64"

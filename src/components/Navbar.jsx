@@ -14,7 +14,7 @@ export default function Navbar({
       <nav className="navbar navbar-expand-lg navbar-dark hero-bg shadow-sm" aria-label="Navegación principal">
         <div className="container py-2">
           <a className="navbar-brand d-flex align-items-center gap-2" href="#inicio">
-            <img src="/img/logo-animeshop.svg" alt="Logo de AnimeShop" width="36" height="36" />
+            <img src={`${import.meta.env.BASE_URL}img/logo-animeshop.svg`} alt="Logo de AnimeShop" width="36" height="36" />
             <span className="fw-semibold">AnimeShop</span>
           </a>
 

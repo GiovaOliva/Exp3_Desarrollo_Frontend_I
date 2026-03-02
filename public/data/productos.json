@@ -4,7 +4,7 @@
     "nombre": "Figura de acción Naruto",
     "categoria": "figuras",
     "precio": 25000,
-    "imagen": "/img/shopping.webp",
+    "imagen": "img/shopping.webp",
     "descripcion": "Figura coleccionable del anime Naruto Shippuden."
   },
   {
@@ -12,7 +12,7 @@
     "nombre": "Figura de acción Levi Ackerman",
     "categoria": "figuras",
     "precio": 28000,
-    "imagen": "/img/figuralevi.avif",
+    "imagen": "img/figuralevi.avif",
     "descripcion": "Figura coleccionable del anime Attack on Titan."
   },
   {
@@ -20,7 +20,7 @@
     "nombre": "Figura de acción Luffy Gear 5",
     "categoria": "figuras",
     "precio": 30000,
-    "imagen": "/img/figuralufy.webp",
+    "imagen": "img/figuralufy.webp",
     "descripcion": "Figura coleccionable del anime One Piece."
   },
   {
@@ -28,7 +28,7 @@
     "nombre": "Camiseta Naruto Shippuden",
     "categoria": "poleras",
     "precio": 18000,
-    "imagen": "/img/NarutoUzumakiModosabioposter.webp",
+    "imagen": "img/NarutoUzumakiModosabioposter.webp",
     "descripcion": "Camiseta oficial inspirada en Naruto Shippuden."
   },
   {
@@ -36,7 +36,7 @@
     "nombre": "Camiseta Attack on Titan",
     "categoria": "poleras",
     "precio": 20000,
-    "imagen": "/img/titan.jpg",
+    "imagen": "img/titan.jpg",
     "descripcion": "Camiseta oficial inspirada en Shingeki no Kyojin."
   },
   {
@@ -44,7 +44,7 @@
     "nombre": "Camiseta One Piece",
     "categoria": "poleras",
     "precio": 19000,
-    "imagen": "/img/onepiececamiseta.webp",
+    "imagen": "img/onepiececamiseta.webp",
     "descripcion": "Camiseta oficial inspirada en One Piece."
   },
   {
@@ -52,7 +52,7 @@
     "nombre": "Póster Naruto",
     "categoria": "posters",
     "precio": 8000,
-    "imagen": "/img/posternaruto.jpg",
+    "imagen": "img/posternaruto.jpg",
     "descripcion": "Póster decorativo del anime Naruto Shippuden."
   },
   {
@@ -60,7 +60,7 @@
     "nombre": "Póster Shingeki no Kyojin",
     "categoria": "posters",
     "precio": 9000,
-    "imagen": "/img/postershingeki.jpg",
+    "imagen": "img/postershingeki.jpg",
     "descripcion": "Póster decorativo del anime Shingeki no Kyojin."
   },
   {
@@ -68,7 +68,7 @@
     "nombre": "Póster One Piece",
     "categoria": "posters",
     "precio": 7500,
-    "imagen": "/img/610.webp",
+    "imagen": "img/610.webp",
     "descripcion": "Póster decorativo del anime One Piece."
   }
 ]
